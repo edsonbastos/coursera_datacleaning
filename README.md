@@ -41,4 +41,4 @@ The columns in the tidy.data.average data frame are:
 
 - mean: averages of the mean
 
--- std: averages of the standard deviation
+- std: averages of the standard deviation
